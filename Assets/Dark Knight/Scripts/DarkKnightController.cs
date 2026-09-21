@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
@@ -167,6 +167,10 @@ namespace TealFalconEnemySeries{
             if(CurrentFightingState != FightingState.Idle)
                 return;
 
+            // If an EnemyAI is controlling this character, let EnemyAI handle movement and physics
+            if (GetComponent<EnemyAI>() != null)
+                return;
+
                 float targetSpeed = 0f;
 
             //Determine Target Speed
@@ -189,7 +193,7 @@ namespace TealFalconEnemySeries{
             _animator.SetFloat("Speed",Mathf.Abs(currentSpeed)/animationSpeed);
             
             // Apply the calculated speed to the Rigidbody2D
-            _rigidBody.linearVelocity = new Vector2(currentSpeed  , 0);
+            _rigidBody.linearVelocity = new Vector2(currentSpeed, _rigidBody.linearVelocity.y);
 
             //Footstep Sound
 
@@ -216,6 +220,10 @@ namespace TealFalconEnemySeries{
             if(CurrentFightingState != FightingState.Idle)
                 return;
 
+            // If an EnemyAI is controlling this character, let EnemyAI handle movement and physics
+            if (GetComponent<EnemyAI>() != null)
+                return;
+
             CurrentMovementState = MovementState.Running;
 
             _animator.SetBool("Busy",false);
@@ -234,6 +242,10 @@ namespace TealFalconEnemySeries{
         public void ActivateWalk(){
 
             if(CurrentFightingState != FightingState.Idle)
+                return;
+
+            // If an EnemyAI is controlling this character, let EnemyAI handle movement and physics
+            if (GetComponent<EnemyAI>() != null)
                 return;
 
             CurrentMovementState = MovementState.Walking;
@@ -275,15 +287,17 @@ namespace TealFalconEnemySeries{
         //Exec Attack
         public void ActivateAttack(){
 
-            if(CurrentFightingState != FightingState.OnGuard)
+            if(CurrentFightingState == FightingState.Death || CurrentFightingState == FightingState.Hurt || CurrentFightingState == FightingState.Attacking)
                 return;
 
             CurrentMovementState = MovementState.Idle;
             CurrentFightingState = FightingState.Attacking;
-            _rigidBody.AddForce(transform.localScale.x*Vector2.right * BackStepPower, ForceMode2D.Impulse);
-            
-            if(currentSpeed != 0)
-                return;
+            currentSpeed = 0f;
+
+            if (_rigidBody != null)
+            {
+                _rigidBody.linearVelocity = new Vector2(0f, _rigidBody.linearVelocity.y);
+            }
 
             StartCoroutine(AttackRoutine());
 
@@ -400,26 +414,27 @@ namespace TealFalconEnemySeries{
 
         IEnumerator AttackRoutine()
         {
-            // Activar la animación de ataque
-            _animator.SetTrigger("Attack");
+            CurrentFightingState = FightingState.Attacking;
+            CurrentMovementState = MovementState.Idle;
 
-            
+            if (_animator != null)
+            {
+                _animator.SetBool("Guard", false);
+                _animator.Play("Attack", 0, 0f);
+            }
+
             PlaySound(SwordSound);
 
-            // Esperar hasta que termine la animación de ataque
-            while (!_animator.GetCurrentAnimatorStateInfo(0).IsName("Attack"))
+            // Duree de l'animation d'attaque (Attack.anim 1.5s a vitesse 2 = 0.75s)
+            yield return new WaitForSeconds(0.75f);
+
+            if (_animator != null)
             {
-                yield return null;
+                _animator.CrossFade("Idle", 0.15f, 0);
             }
 
-            // Esperar hasta que termine la animación de ataque completamente
-            while (_animator.GetCurrentAnimatorStateInfo(0).normalizedTime < 0.3f)
-            {
-                yield return null;
-            }
-
-            // Volver al estado de guardia después del ataque
-            CurrentFightingState = FightingState.OnGuard;
+            CurrentFightingState = FightingState.Idle;
+            CurrentMovementState = MovementState.Idle;
         }
 
         IEnumerator OnHurtRoutine()
@@ -506,7 +521,12 @@ namespace TealFalconEnemySeries{
             return spriteRenderers; 
         }
 
-        private void PlaySound(AudioClip _clip){
+        public void PlaySwordSound()
+        {
+            PlaySound(SwordSound);
+        }
+
+        public void PlaySound(AudioClip _clip){
             
             if(_clip == null){
                 Debug.LogWarning("Sound not setted.");

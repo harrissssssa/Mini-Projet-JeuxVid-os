@@ -448,11 +448,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   player: {fileID: 1392226382}
-  detectionRange: 8
-  attackRange: 1.5
-  moveSpeed: 3
+  detectionRange: 10
+  attackRange: 3.5
+  moveSpeed: 3.5
   attackCooldown: 1.5
-  isGrounded: 1
+  preventPushingPlayer: 1
 --- !u!1 &628676022
 GameObject:
   m_ObjectHideFlags: 0
@@ -594,6 +594,10 @@ PrefabInstance:
     - target: {fileID: 2862652307237929336, guid: b115dcb1c503f0c4e9733d366fb8e665, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800635697886713076, guid: b115dcb1c503f0c4e9733d366fb8e665, type: 3}
+      propertyPath: m_Constraints
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
