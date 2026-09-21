@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7be19c7f2a20024998698fb2fd559b9
+timeCreated: 1508246451
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Animators&Animations/player.controller
+  uploadId: 221946

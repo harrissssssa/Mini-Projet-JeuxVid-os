@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d33bc12675ec6cb40a4f11c06dbc929a
+timeCreated: 1514464245
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Scripts/grassSwag.cs
+  uploadId: 221946

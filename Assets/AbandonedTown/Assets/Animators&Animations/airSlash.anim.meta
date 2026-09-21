@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0fd113737c137e146a969dffc704f038
+timeCreated: 1510580294
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Animators&Animations/airSlash.anim
+  uploadId: 221946

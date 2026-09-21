@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c71e5099944af945bec0458760a9bb9
+timeCreated: 1509253755
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Animators&Animations/slash.anim
+  uploadId: 221946

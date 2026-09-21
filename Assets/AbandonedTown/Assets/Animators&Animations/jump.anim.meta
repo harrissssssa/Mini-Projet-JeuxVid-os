@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08e5f621cac543f4cabccbdfc914e554
+timeCreated: 1509756998
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Animators&Animations/jump.anim
+  uploadId: 221946

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d341a2853b3d46440b0092748c4146ab
+timeCreated: 1507435140
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Materials/grassGround.mat
+  uploadId: 221946

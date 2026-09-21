@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 85e02fab2ac366648a4a1747c62abb9b
+timeCreated: 1504615910
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Scripts/sky.cs
+  uploadId: 221946

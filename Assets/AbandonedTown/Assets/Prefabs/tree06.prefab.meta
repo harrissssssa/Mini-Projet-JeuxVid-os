@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f41a02718a375f47ba9b086bb325102
+timeCreated: 1510752831
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Prefabs/tree06.prefab
+  uploadId: 221946

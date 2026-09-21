@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d83fcf2323b3237478da9e4ea59f576d
+timeCreated: 1508246721
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Scripts/player.cs
+  uploadId: 221946

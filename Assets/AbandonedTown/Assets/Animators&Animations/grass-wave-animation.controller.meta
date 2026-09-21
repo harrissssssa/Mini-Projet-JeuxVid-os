@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1acfe3e547c7de94dbffb5e18c62f818
+timeCreated: 1514463568
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Animators&Animations/grass-wave-animation.controller
+  uploadId: 221946

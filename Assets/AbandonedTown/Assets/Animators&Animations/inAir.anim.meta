@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f48146ec46716e4b8691ec0ec301085
+timeCreated: 1509778782
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Animators&Animations/inAir.anim
+  uploadId: 221946

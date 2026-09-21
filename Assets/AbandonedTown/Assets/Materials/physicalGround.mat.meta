@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fae7db7b540b2594d9c2f4a13d435e79
+timeCreated: 1504362474
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Assets/Materials/physicalGround.mat
+  uploadId: 221946

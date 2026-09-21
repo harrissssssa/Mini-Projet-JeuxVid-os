@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a4c014df800ffbe47919e70e62256275
+timeCreated: 1504363102
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100003
+  packageName: 2D Abandoned Town Scene
+  packageVersion: 1.0
+  assetPath: Assets/AbandonedTown/Demo/abandonedTown.unity
+  uploadId: 221946
