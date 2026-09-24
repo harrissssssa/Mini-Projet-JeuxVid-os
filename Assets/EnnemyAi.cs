@@ -15,6 +15,9 @@ public class EnemyAI : MonoBehaviour
 
     [Header("Attaque")]
     public float attackCooldown = 1.5f;
+    public int attackDamage = 10;
+    [Tooltip("Delai avant que les degats soient appliques (doit correspondre au moment de l'impact dans l'animation)")]
+    public float damageDelay = 0.4f;
     private float lastAttackTime = -999f;
     private bool isAttacking = false;
 
@@ -92,7 +95,6 @@ public class EnemyAI : MonoBehaviour
 
         float deltaX = player.position.x - transform.position.x;
         float horizontalDistance = Mathf.Abs(deltaX);
-        float verticalDistance = Mathf.Abs(player.position.y - transform.position.y);
         float distance2D = Vector2.Distance(transform.position, player.position);
 
         // Distance physique bord-a-bord entre les colliders
@@ -107,7 +109,8 @@ public class EnemyAI : MonoBehaviour
         }
 
         // Le chevalier s'arrete et attaque s'il est a portee ou tout proche du joueur
-        bool inAttackRange = (horizontalDistance <= attackRange || edgeDistance <= 0.5f) && verticalDistance <= 3.5f;
+        // (plus de restriction de hauteur : l'attaque fonctionne peu importe la difference verticale)
+        bool inAttackRange = horizontalDistance <= attackRange || edgeDistance <= 0.5f;
         bool inDetectionRange = distance2D <= detectionRange || horizontalDistance <= detectionRange;
 
         // Tourner le chevalier face au joueur
@@ -170,18 +173,49 @@ public class EnemyAI : MonoBehaviour
         if (darkKnight != null)
         {
             darkKnight.ActivateAttack();
+            // Attendre le moment de l'impact dans l'animation
+            yield return new WaitForSeconds(damageDelay);
+            DealDamageToPlayer();
             // Attendre la fin de l'attaque (duree animation = 0.75s)
-            yield return new WaitForSeconds(0.8f);
+            yield return new WaitForSeconds(0.8f - damageDelay);
         }
         else if (animator != null)
         {
             animator.Play("Attack", 0, 0f);
-            yield return new WaitForSeconds(0.75f);
+            yield return new WaitForSeconds(damageDelay);
+            DealDamageToPlayer();
+            yield return new WaitForSeconds(0.75f - damageDelay);
             animator.CrossFade("Idle", 0.15f, 0);
         }
 
         lastAttackTime = Time.time;
         isAttacking = false;
+    }
+
+    void DealDamageToPlayer()
+    {
+        if (player == null) return;
+
+        // Verifier que le joueur est toujours a portee au moment de l'impact
+        float horizontalDistance = Mathf.Abs(player.position.x - transform.position.x);
+        float edgeDistance = float.MaxValue;
+        if (myCollider != null && playerCollider != null)
+        {
+            ColliderDistance2D colDist = myCollider.Distance(playerCollider);
+            if (colDist.isValid)
+            {
+                edgeDistance = colDist.distance;
+            }
+        }
+
+        bool stillInRange = horizontalDistance <= attackRange || edgeDistance <= 0.5f;
+        if (!stillInRange) return;
+
+        PlayerHealth playerHealth = player.GetComponent<PlayerHealth>();
+        if (playerHealth != null)
+        {
+            playerHealth.TakeDamage(attackDamage);
+        }
     }
 
     // Visualisation des portees dans la vue Scene de l'editeur Unity
