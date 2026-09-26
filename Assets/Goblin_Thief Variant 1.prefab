@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &327508401957407019
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 301201267919940209, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20.39863
+      objectReference: {fileID: 0}
+    - target: {fileID: 301201267919940209, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.68647
+      objectReference: {fileID: 0}
+    - target: {fileID: 301201267919940209, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 301201267919940209, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 301201267919940209, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 301201267919940209, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 301201267919940209, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 301201267919940209, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 301201267919940209, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 301201267919940209, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1505905564021469714, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_Name
+      value: Goblin_Thief Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345421289836314600, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1505905564021469714, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+      insertIndex: 4
+      addedObject: {fileID: 8845599556976656659}
+  m_SourcePrefab: {fileID: 100100000, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+--- !u!1 &1183749653626633017 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1505905564021469714, guid: fe9f6acd2d5879a45897a3c86a4a5a2d, type: 3}
+  m_PrefabInstance: {fileID: 327508401957407019}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8845599556976656659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1183749653626633017}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 293a5c8db52c7fe4bafcd0d0fecfa514, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SimpleEnemyAI
+  detectionRange: 6
+  attackRange: 0.5
+  moveSpeed: 2.5
+  attackCooldown: 1.2
+  attackDamage: 5
+  damageDelay: 0.3
+  attackAnimationDuration: 0.6
+  preventPushingPlayer: 1

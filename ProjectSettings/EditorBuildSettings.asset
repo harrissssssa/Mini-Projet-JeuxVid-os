@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/AbandonedTown/Demo/abandonedTown.unity
+    guid: a4c014df800ffbe47919e70e62256275
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/animationFinale.unity
+    guid: 63496dcbfd6da054eb3e2829d7630e09
+  - enabled: 1
+    path: Assets/Scenes/SceneFinal.unity
+    guid: ea9849af5382a6a4cbffe0eb3ab53e9b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

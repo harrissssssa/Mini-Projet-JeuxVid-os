@@ -1,0 +1,2424 @@
+fileFormatVersion: 2
+guid: fede192f96571e04e8d52f9b685735d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5323933450232631405
+    second: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+      Characters (Overworld) - Edward & Alphonse (Young)_0
+  - first:
+      213: 4734570348174697397
+    second: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+      Characters (Overworld) - Edward & Alphonse (Young)_1
+  - first:
+      213: 5022152856544480323
+    second: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+      Characters (Overworld) - Edward & Alphonse (Young)_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d609fecf34962e940800000000000000
+      internalID: 5323933450232631405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3ec0795a294b140800000000000000
+      internalID: 4734570348174697397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c0c0e1a6542b540800000000000000
+      internalID: 5022152856544480323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2896d7f69c174394f840bf4a223ad2b5
+      internalID: -1951304966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e426b4a1006c8b644ad369ef10e68385
+      internalID: 863260691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9526f74bcf1777d47909250f12bd26eb
+      internalID: -652034005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1287c0bc60cd7704f96dc08b35b44145
+      internalID: 1561657891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06a84396a76fcf4b864d2f85eabaa4f
+      internalID: -267397638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e249aadc4ffd897419a950259da6365a
+      internalID: -997474058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecabbb6198d0ba4d804a3cb643e28fb
+      internalID: 557272892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8048c37b0f7e24c89b8962eeff08b9
+      internalID: -1904009569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35085b53784b5c94884a6bbca58957b3
+      internalID: 612195010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205f9ef5bfcf59244b85ddf1509ac898
+      internalID: 480632576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e40969c51b296e4f9140e32f6b17ba3
+      internalID: -1480809796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17ca160c5ab8a544892baad546a5dfb
+      internalID: 831982369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d17b2c5c3f75e4581c628e90c2b51c
+      internalID: 1867699239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354406f7fc1db72499141ef8e2b63cb1
+      internalID: 573452579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4649297692f3074085f963e0a2877b9
+      internalID: 2010380897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c615ec372f784b900259f39e3be7f
+      internalID: -941660590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f46f393a4a6923408e0e4a79f0522d7
+      internalID: 1741990462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c03699260759c4d98a04869fa409a5
+      internalID: 804179282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9db94aac4fb6247a6549a6f6d43b1b
+      internalID: 109841838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25e2d1f18176d54fb089d5040f2a6b3
+      internalID: 996096362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4623dd277751c7547932dfe48d9688bd
+      internalID: 600068872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11634f8410756cc48a80a511176dd789
+      internalID: -936714939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefc868159a6c1445a8c35ed99d5f8d3
+      internalID: 1484477187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5848635ed77359343aeafb26f75b057f
+      internalID: 46766620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca9468573c5ed45b5bf2d696dba3f7
+      internalID: -1473786462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099c5a9667d7854181f1eb2241b6244
+      internalID: -1750245032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3fccf797fe25642b98c659f305c5b9
+      internalID: 1170148272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cdbeca912d3ce4ea82d56e7935d388
+      internalID: 898576274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc4766946ea92247944134ee0013ae7
+      internalID: -161179030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc4c0436ac2ab84cb2016aa7b8964a3
+      internalID: -781143672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d181224e55bc5de469fd96a15b9c50aa
+      internalID: -799636841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f85f82255b43f240b152afd9c6a1cbe
+      internalID: -72993737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b83652515709245b519ab37566030e
+      internalID: -1439272591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c22f161fb5e5499cd50183fdc2b8b
+      internalID: 201175455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437da53689451e44696f4d01468dbe69
+      internalID: -1307790154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a63a02a0d9f4a42bf4168b473aef95
+      internalID: 656024339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86822c3ed4a40846b125bb65dd334d7
+      internalID: -1883835725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd40d2d411350f429b3021729b3f176
+      internalID: 752917194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a046d928320ec134382996b0bec80b01
+      internalID: -185786947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d29522e7bf2c47bb914249ef1a60e
+      internalID: 1963554227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_43
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 160
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c4511ca2e38524a85df333ddf2cff6
+      internalID: 1296130374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c0ef6db10a0df4282c63769e877c20
+      internalID: -165710637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f3381818330054eaceb319d129de53
+      internalID: -1487486777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2046ea2deef66f4a8917f103d43509b
+      internalID: 1045838328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34894c3b4a2639040869c5cc4dca3da5
+      internalID: 480170351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c0139ad3e72349a358e00411a403a
+      internalID: 58604485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a602ee911cb9b5d40bcfe198f3cc98c1
+      internalID: -1713699916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ad39b42f9e3f47bf3012725704c8e
+      internalID: -377425549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387484c2dccb5284fb3c8de459234197
+      internalID: 1899327916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_52
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704733915fdaeef479cfab6d860fabe5
+      internalID: -2136070875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7047380646f186a4d89efce67638ce47
+      internalID: -2105916991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_54
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12d72707225d284e839699e23c95fca
+      internalID: -1445514196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8934414375aef7641aeb017ee6144e2d
+      internalID: -1834408332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_56
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac2e0ea1017192488c4be8cfccb236a
+      internalID: 1664060677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f0e261b4cb50e4dbc9ab5f3128270e
+      internalID: -72037029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c902d56cf81ff0342b8fa7ce75291ad3
+      internalID: -1570845338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_59
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ca02d23ae6be948b4b2df1321d6d04
+      internalID: 1945537918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e715b4d7ac614e967e18a82c3fa8e
+      internalID: 2013017597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dad7de9bdd15534db8a0db0bc0c4ef3
+      internalID: -1100032995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_62
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2690d59c56b54040be0e685c883ceb8
+      internalID: -1537167561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_63
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de6b77e4f4e834a994c57347be4565
+      internalID: -1713931842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6127cad8893a5245bae22608888874c
+      internalID: 2114039199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_65
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33791a44f471610419fdaadcc288aef1
+      internalID: 2097993593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5875213d01e6e4989bc8accddb68d1
+      internalID: 314568308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_67
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f871ec9210f36da438db2aabeaeb3d40
+      internalID: -1630080341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_68
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445dcaaed4bd6a24d8098b5e1b16c645
+      internalID: -413705863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14baa659c02f2847bcf268edce7555d
+      internalID: 1689507433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5aaa45d4e787c44a16944d04682092
+      internalID: -1093510542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_71
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0756dcb01e5dbef47bd4dc6cec5723af
+      internalID: -390632468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_72
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680a160bd63522b41a9954016557d03d
+      internalID: -1891529096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_73
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d45b6c1b222a409b97e3a707f19f2
+      internalID: -1368020791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_74
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585f2720aacc697499df0021edb41fab
+      internalID: -1833310048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_75
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f176dfd4554e9d43ab89365320fa0ed
+      internalID: 1312127763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_76
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9633973b2c93c1144802ee46252e5412
+      internalID: -1242657359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767dd45128558754bb09586f5895ef34
+      internalID: -819097917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_78
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4391cc105032b94fa152f22a489456b
+      internalID: 451494365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eebbede5a18cbc468e55cbb67e19e4a
+      internalID: -1147624445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec7fe079701b6f47bdcfc1e82b8d395
+      internalID: 736422414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_81
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b3514639d3f954db2cd56ed47614a6
+      internalID: 1260327972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e121972208513c5418f9bea1c0b6e72c
+      internalID: -974069489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_83
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0ff2743636fe340af5982e0f672688
+      internalID: -1504387886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_84
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a6d5ee896e7c4189499bec688e622
+      internalID: 1595223840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_85
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049db43df55ea5441a81575d47dac70f
+      internalID: 1740196990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_86
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e01f9476c5225649af90f7349b5a2ed
+      internalID: 101477555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ebbab2348568f4d86470aeda8a0b79
+      internalID: -751817959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_88
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862cfa752910b2d4f8bdaf6188eee35a
+      internalID: -913200911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295a7043c4ba5a0459ae9af160a8cd8f
+      internalID: -559641415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_90
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc94e11420e95429a6a387683089c5
+      internalID: 1189604480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_91
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d680fc62a87819c4c94df430edb9115a
+      internalID: 1494917409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1548be11c016c3e4aa48068efb326f9a
+      internalID: 1909899060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_93
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d2ce03db3be44882b8e3a0feb8c05
+      internalID: 1859272492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable
+        Characters (Overworld) - Edward & Alphonse (Young)_94
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1319f21919a99cc439c6e4d3977eda3d
+      internalID: -1509765926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d9908f7f04f0d1a45bc8b9240cb2f173
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":9.0},"gridSpriteSize":{"x":22.0,"y":32.0},"gridSpriteOffset":{"x":1.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_0: 5323933450232631405
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_1: 4734570348174697397
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_10: -1904009569
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_11: 612195010
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_12: 480632576
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_13: -1480809796
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_14: 831982369
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_15: 1867699239
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_16: 573452579
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_17: 2010380897
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_18: -941660590
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_19: 1741990462
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_2: 5022152856544480323
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_20: 804179282
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_21: 109841838
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_22: 996096362
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_23: 600068872
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_24: -936714939
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_25: 1484477187
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_26: 46766620
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_27: -1473786462
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_28: -1750245032
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_29: 1170148272
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_3: -1951304966
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_30: 898576274
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_31: -161179030
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_32: -781143672
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_33: -799636841
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_34: -72993737
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_35: -1439272591
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_36: 201175455
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_37: -1307790154
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_38: 656024339
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_39: -1883835725
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_4: 863260691
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_40: 752917194
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_41: -185786947
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_42: 1963554227
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_43: 1296130374
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_44: -165710637
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_45: -1487486777
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_46: 1045838328
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_47: 480170351
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_48: 58604485
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_49: -1713699916
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_5: -652034005
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_50: -377425549
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_51: 1899327916
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_52: -2136070875
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_53: -2105916991
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_54: -1445514196
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_55: -1834408332
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_56: 1664060677
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_57: -72037029
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_58: -1570845338
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_59: 1945537918
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_6: 1561657891
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_60: 2013017597
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_61: -1100032995
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_62: -1537167561
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_63: -1713931842
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_64: 2114039199
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_65: 2097993593
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_66: 314568308
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_67: -1630080341
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_68: -413705863
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_69: 1689507433
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_7: -267397638
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_70: -1093510542
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_71: -390632468
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_72: -1891529096
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_73: -1368020791
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_74: -1833310048
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_75: 1312127763
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_76: -1242657359
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_77: -819097917
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_78: 451494365
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_79: -1147624445
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_8: -997474058
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_80: 736422414
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_81: 1260327972
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_82: -974069489
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_83: -1504387886
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_84: 1595223840
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_85: 1740196990
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_86: 101477555
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_87: -751817959
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_88: -913200911
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_89: -559641415
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_9: 557272892
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_90: 1189604480
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_91: 1494917409
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_92: 1909899060
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_93: 1859272492
+      Game Boy Advance - Fullmetal Alchemist_ Meisou no Rondo (JPN) - Non-Playable Characters (Overworld) - Edward & Alphonse (Young)_94: -1509765926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

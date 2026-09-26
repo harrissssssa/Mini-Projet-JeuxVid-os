@@ -42,5 +42,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Sky
+    uniqueID: 1296210597
+    locked: 0
+  - name: Montains
+    uniqueID: 2001387773
+    locked: 0
+  - name: Houses
+    uniqueID: 1832787307
+    locked: 0
+  - name: ground
+    uniqueID: 3948032113
+    locked: 0
+  - name: player
+    uniqueID: 1080937833
+    locked: 0
   m_RenderingLayers:
   - Default
